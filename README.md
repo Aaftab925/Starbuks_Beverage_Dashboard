@@ -2,8 +2,10 @@
 
 ## 📌 Project Overview
 This project is an interactive Starbucks Beverage Dashboard created using Microsoft Power BI. It provides insights into Starbucks beverage categories, nutritional information, caffeine content, and beverage distribution.
-
 The dashboard helps users explore beverage data and understand different product characteristics through interactive visualizations.
+
+<img width="1343" height="753" alt="Starbucks_Dashboard png" src="https://github.com/user-attachments/assets/8bfdbe81-f964-4027-a15d-07c9ec28163e" />
+
 
 ## 🎯 Key Performance Indicators (KPIs)
 - Total Beverages
