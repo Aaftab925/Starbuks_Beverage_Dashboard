@@ -43,3 +43,6 @@ GitHub: [Aaftab925](https://github.com/Aaftab925)
 ---
 
 ⭐ If you find this project useful, feel free to star the repository!
+## 📸 Dashboard Preview
+
+![Starbucks Dashboard](Starbucks_Dashboard.png)
